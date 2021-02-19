@@ -3,5 +3,5 @@ numpy
 streamlit
 tensofrlow
 pillow
-matplotlib
+matplotlib==3.3.4
 
